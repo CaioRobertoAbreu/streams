@@ -1,4 +1,4 @@
-package test;
+package streams.test;
 
 import java.util.List;
 

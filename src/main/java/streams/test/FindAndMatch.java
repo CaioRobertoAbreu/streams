@@ -1,9 +1,6 @@
-package test;
+package streams.test;
 
-import dominio.LightNovel;
-import template.LightNovelsTemplate;
-
-import java.util.Optional;
+import streams.template.LightNovelsTemplate;
 
 /*
 1. Encontrar elementos

@@ -1,10 +1,8 @@
-package test;
+package streams.test;
 
-import template.ListAninhadaTemplate;
+import streams.template.ListAninhadaTemplate;
 
-import java.util.Collection;
 import java.util.List;
-import java.util.stream.Collectors;
 
 /*
 1. Retornar todos os nomes presentes na lista

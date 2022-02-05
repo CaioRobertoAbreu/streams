@@ -1,0 +1,19 @@
+
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+O
+src/main/java/test/FlatMap.java,5\3\53ea6c3d476ebcd5948ded9cd62fb79b8c2f70a6
+`
+0src/main/java/template/ListAninhadaTemplate.java,3\2\328fb63b0f88f2036899f4d3365a5359ab9eb32f
+`
+0src/main/java/template/ListPalavrasTemplate.java,1\5\15cb56c5372d7b4ee214b324aca3cc8fbacba138
+[
++src/main/java/test/FlatMapMaisComplexo.java,7\e\7e47a86ff050e13db36c4b275dd78ea010838153
+U
+%src/main/java/dominio/LightNovel.java,d\b\db9568aeb2c3b6b0d20d27f7f1423f329d6873e8
+R
+"src/main/java/test/Ordernacao.java,f\0\f01b76e2b9ba852f55199b101724a3c3eb42f622
+T
+$src/main/java/test/FindAndMatch.java,3\9\39529677d94ce75860cedbd78ada2a14e6d0c320
+_
+/src/main/java/template/LightNovelsTemplate.java,7\f\7f041582c269eb8f1666eea8c91e40b65b80e800

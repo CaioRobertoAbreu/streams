@@ -1,4 +1,4 @@
-package template;
+package streams.template;
 
 import java.util.List;
 

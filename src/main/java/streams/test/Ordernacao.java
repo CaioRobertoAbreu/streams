@@ -1,7 +1,7 @@
-package test;
+package streams.test;
 
-import dominio.LightNovel;
-import template.LightNovelsTemplate;
+import streams.dominio.LightNovel;
+import streams.template.LightNovelsTemplate;
 
 import java.util.Comparator;
 import java.util.stream.Collectors;

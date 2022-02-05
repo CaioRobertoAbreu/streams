@@ -1,12 +1,9 @@
-package test;
+package streams.test;
 
-import template.ListAninhadaTemplate;
-import template.ListPalavrasTemplate;
+import streams.template.ListAninhadaTemplate;
+import streams.template.ListPalavrasTemplate;
 
 import java.util.Arrays;
-import java.util.List;
-import java.util.stream.Collectors;
-import java.util.stream.Stream;
 
 /*
 1. Pegar todas as palavras e retornar um array com todas as letras

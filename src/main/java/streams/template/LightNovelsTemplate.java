@@ -1,6 +1,6 @@
-package template;
+package streams.template;
 
-import dominio.LightNovel;
+import streams.dominio.LightNovel;
 
 import java.util.ArrayList;
 import java.util.List;

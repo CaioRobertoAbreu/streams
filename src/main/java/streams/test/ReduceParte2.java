@@ -1,8 +1,7 @@
-package test;
+package streams.test;
 
-import template.LightNovelsTemplate;
+import streams.template.LightNovelsTemplate;
 
-import java.util.stream.DoubleStream;
 import java.util.stream.IntStream;
 
 /*

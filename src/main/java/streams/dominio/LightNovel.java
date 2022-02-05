@@ -1,4 +1,4 @@
-package dominio;
+package streams.dominio;
 
 import lombok.Builder;
 import lombok.Getter;
